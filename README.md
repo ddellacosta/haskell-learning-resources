@@ -14,7 +14,7 @@ This section contains resources that are meant to be gone through in a
 relatively linear fashion. I'll mark which ones I've gone through
 completely vs. which I've taken bits and pieces from.
 
-* [Introduction to Functional Programming at edX](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0), taught by Erik Meijer
+### [Introduction to Functional Programming at edX](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0), taught by Erik Meijer
 
 I went through this entire course. This was the course that got me
 over the hump, so to speak, in Haskell. At the end of this course I
@@ -31,17 +31,17 @@ bear with him, participate in forum discussions, and work your way
 through all of the exercises, you'll come out of the course with a
 solid foundation in Haskell.
 
-* [CIS194 at University of Pennsylvania](http://www.cis.upenn.edu/~cis194/fall16/)
+### [CIS194 at University of Pennsylvania](http://www.cis.upenn.edu/~cis194/fall16/)
   
-  I believe this was originally created by [Brent
-  Yorgey](https://byorgey.wordpress.com/), but it looks like it's
-  taught by others now. In any case, I have not gone through this
-  course exhaustively, but pulled out exercises here and there to work
-  on, and found it to be a great resource. Others who have gone
-  through it more exhaustively suggest it's a great way for a
-  self-learner to get a foundation in Haskell.
+I believe this was originally created by [Brent
+Yorgey](https://byorgey.wordpress.com/), but it looks like it's
+taught by others now. In any case, I have not gone through this
+course exhaustively, but pulled out exercises here and there to work
+on, and found it to be a great resource. Others who have gone
+through it more exhaustively suggest it's a great way for a
+self-learner to get a foundation in Haskell.
   
-* [Graham Hutton's Programming in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pih.html)
+### [Graham Hutton's Programming in Haskell](http://www.cs.nott.ac.uk/~pszgmh/pih.html)
 
 I've only read parts of it when focusing specific topics, but that
 being the case, this is the best book I've found to use as a textbook
@@ -55,7 +55,7 @@ publications](http://www.cs.nott.ac.uk/~pszgmh/#bibliography)--lots of
 great stuff on [folds](http://www.cs.nott.ac.uk/~pszgmh/bib.html#fold)
 in particular--an amazing resource.
 
-* [Haskell on Wikibooks](https://en.wikibooks.org/wiki/Haskell)
+### [Haskell on Wikibooks](https://en.wikibooks.org/wiki/Haskell)
 
 A bit more uneven, but pretty decent in my experience. I've also only
 used this for focusing on specific topics but it's well-structured in
@@ -65,7 +65,7 @@ your learning process. Keep this one in your back pocket for when you
 need to focus on stuff like understanding better how the state monad
 works, or monoids...etc.
 
-* [LYAH](http://learnyouahaskell.com/) and [Real World Haskell](http://book.realworldhaskell.org/)
+### [LYAH](http://learnyouahaskell.com/) and [Real World Haskell](http://book.realworldhaskell.org/)
   
  Two resources, both with flaws, but still useful for beginners. If
  you try some of these other sites and don't like them, take a look at
@@ -75,14 +75,14 @@ works, or monoids...etc.
  up-to-date with current best practices/libraries, but the foundation
  is still very solid.
 
-* [School of Haskell](https://www.schoolofhaskell.com/)
+### [School of Haskell](https://www.schoolofhaskell.com/)
 
 There's overlap here with some of the resources above, but it can be
 worth picking through this site especially to find topic-specific
 tutorials by pretty prominent members of the Haskell community. Some
 of the material here is quite advanced however.
 
-* [Yesod Web Framework](https://www.yesodweb.com/)
+### [Yesod Web Framework](https://www.yesodweb.com/)
 
 I've actually not ever used the Yesod web framework, but I've found
 some of the sections of this onlien book incredibly useful for
@@ -94,7 +94,7 @@ can really put the more abstract, general documentation in context.
 
 ## (Meta-)References
 
-* [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/)
+### [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/)
 
 One of my favorite references for Haskell, especially useful as an
 "advanced Beginner" or intermediate Haskell programmer. Worth checking
@@ -104,7 +104,7 @@ see his summaries of various GHC extensions--useful for getting a
 basic grasp on the "why" of extensions that you've seen a lot but not
 yet used.
 
-* [wiki.haskell.org](https://wiki.haskell.org)
+### [wiki.haskell.org](https://wiki.haskell.org)
 
 Kind of a mess, but with nuggets of gold throughout. Notable sections
 include the
@@ -115,7 +115,7 @@ algebraic structures used in day-to-day Haskell; the section on
 too, especially [Foldr Foldl
 Foldl'](https://wiki.haskell.org/Foldr_Foldl_Foldl%27)), 
 
-* [Haskell Hierarchical Libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/index.html)
+### [Haskell Hierarchical Libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/index.html)
 
 Library documentation for stuff that is foundational or included by
 default in GHC. Probably a good place to start if you're asking
@@ -123,24 +123,24 @@ questions like, "what is the Haskell lib for <standard data structure
 or set of functions you can expect to see in most programming
 languages>, and what module/package is it in?"
 
-* [Glasgow Haskell Compiler User's Guide](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/)
+### [Glasgow Haskell Compiler User's Guide](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/)
 
 Docs for the compiler you're probably using to compile Haskell. This
 is a great resource for libraries, GHCi details, profiling and
 debugging, and extensions too, in particular.
 
-* [Stack docs](https://docs.haskellstack.org/en/stable/README/)
+### [Stack docs](https://docs.haskellstack.org/en/stable/README/)
 
 Docs for the system that you're probably using to install and create
 Haskell projects.
 
-* [Hoogle](http://hoogle.haskell.org/)
+### [Hoogle](http://hoogle.haskell.org/)
 
 Great for looking up functions or type signatures to figure out where
 a type signature is coming from, what functions implement it, etc. Not
 sure why it says "type search doesn't work," seems like it does...?
 
-* [Hackage](https://hackage.haskell.org/)
+### [Hackage](https://hackage.haskell.org/)
 
 You'll probably end up coming here when trying to find the
 documentation for a specific Haskell package,
@@ -161,7 +161,7 @@ becomes obvious quickly if you spend any time with any one of these
 collections that there is enough knowledge here to last one a
 lifetime. Enjoy, don't drown...
 
-* [Philip Wadler's home page](http://homepages.inf.ed.ac.uk/wadler/)
+### [Philip Wadler's home page](http://homepages.inf.ed.ac.uk/wadler/)
 
 Great, important papers here, written in an entertaining
 style. Professor Wadler is one of the people who helped create Haskell
@@ -173,7 +173,7 @@ Types](http://homepages.inf.ed.ac.uk/wadler/topics/history.html#propositions-as-
 and more for a background in some of the ideas that helped make
 Haskell what it is today.
 
-* [okmij.org (Oleg Kiselyov's site)](http://okmij.org/ftp/)
+### [okmij.org (Oleg Kiselyov's site)](http://okmij.org/ftp/)
 
 Quite frankly, an incredibly intimidating collection of
 resources. Oleg is notable for his writing on all kinds of topics, in
@@ -186,12 +186,12 @@ the subject (in particular the lecture notes/tutorial at the top:
 [Typed Tagless Final Interpreters: Lecture
 Notes](http://okmij.org/ftp/tagless-final/course/lecture.pdf)).
 
-* [Graham Hutton's publications](http://www.cs.nott.ac.uk/~pszgmh/#bibliography)
+### [Graham Hutton's publications](http://www.cs.nott.ac.uk/~pszgmh/#bibliography)
 
 Already mentioned above. Lots of good stuff here, and I find Professor
 Hutton's writing to be very approachable.
 
-* [Richard Bird's publications](https://www.cs.ox.ac.uk/people/richard.bird/)
+### [Richard Bird's publications](https://www.cs.ox.ac.uk/people/richard.bird/)
 
 Not a lot linked to there but check out his book on [Functional
 Pearls](https://www.amazon.com/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383)
@@ -201,14 +201,14 @@ articles taken from a recurring column in the Journal of Functional
 Programming. More context to be found on Prof. Jeremy Gibbons site
 [here](https://www.cs.ox.ac.uk/people/jeremy.gibbons/pearls/)
 
-* [The Monad Reader](https://themonadreader.wordpress.com/)
+### [The Monad Reader](https://themonadreader.wordpress.com/)
 
 Collections of articles on various esoteric and not-so-esoteric topics
 in Haskell. "The Monad.Reader is a electronic magazine about all
 things Haskell. It is less formal than journal, but somehow more
 enduring than a wiki-page."
 
-* [The Comonad Reader](http://comonad.com/reader/)
+### [The Comonad Reader](http://comonad.com/reader/)
 
 A blog with a few rotating authors, notably Edward Kmett (apologies to
 Dan Doel and Gershom Bazerman, you are probably also notable but
