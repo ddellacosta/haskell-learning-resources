@@ -89,7 +89,7 @@ of the material here is quite advanced however.
 ### [Yesod Web Framework](https://www.yesodweb.com/)
 
 I've actually not ever used the Yesod web framework, but I've found
-some of the sections of this onlien book incredibly useful for
+some of the sections of this online book incredibly useful for
 understanding modern Haskell development practices, especially for
 stuff like [advanced Monad Transformer stack design and
 usage](https://www.yesodweb.com/book/monad-control). Stuff like this
@@ -101,7 +101,7 @@ can really put the more abstract, general documentation in context.
 ### [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/)
 
 One of my favorite references for Haskell, especially useful as an
-"advanced Beginner" or intermediate Haskell programmer. Worth checking
+"advanced beginner" or intermediate Haskell programmer. Worth checking
 out his section on monads before approaching this topic for some
 guidance on how to think about this contentious, overblown topic. Also
 see his summaries of various GHC extensions--useful for getting a
@@ -117,15 +117,15 @@ Yorgey, mentioned above) which goes through some of the most important
 algebraic structures used in day-to-day Haskell; the section on
 [folds](https://wiki.haskell.org/Fold) (see the links at the bottom
 too, especially [Foldr Foldl
-Foldl'](https://wiki.haskell.org/Foldr_Foldl_Foldl%27)), 
+Foldl'](https://wiki.haskell.org/Foldr_Foldl_Foldl%27)), and more.
 
 ### [Haskell Hierarchical Libraries](https://downloads.haskell.org/~ghc/latest/docs/html/libraries/index.html)
 
 Library documentation for stuff that is foundational or included by
 default in GHC. Probably a good place to start if you're asking
-questions like, "what is the Haskell lib for <standard data structure
+questions like, "what is the Haskell lib for &lt;standard data structure
 or set of functions you can expect to see in most programming
-languages>, and what module/package is it in?"
+languages&gt;, and what module/package is it in?"
 
 ### [Glasgow Haskell Compiler User's Guide](https://downloads.haskell.org/~ghc/latest/docs/html/users_guide/)
 
@@ -191,8 +191,8 @@ Haskell what it is today.
 ### [okmij.org (Oleg Kiselyov's site)](http://okmij.org/ftp/)
 
 Quite frankly, an incredibly intimidating collection of
-resources. Oleg is notable for his writing on all kinds of topics, in
-particular, in the Haskell realm, I think his papers on [Extensible
+resources. Oleg is notable for his writing on all kinds of topics, but
+in particular, in the Haskell realm, I think his papers on [Extensible
 Effects](http://okmij.org/ftp/Haskell/extensible/) have been
 influential. I've only really touched a few items here and there--in
 particular I found his page on [tagless-final
@@ -214,7 +214,7 @@ if you want to really blow your mind. I think I made it through like
 one or two of the articles in that book (which is a collection of
 articles taken from a recurring column in the Journal of Functional
 Programming. More context to be found on Prof. Jeremy Gibbons site
-[here](https://www.cs.ox.ac.uk/people/jeremy.gibbons/pearls/)
+[here](https://www.cs.ox.ac.uk/people/jeremy.gibbons/pearls/)).
 
 ### [The Monad Reader](https://themonadreader.wordpress.com/)
 
@@ -225,10 +225,9 @@ enduring than a wiki-page."
 
 ### [The Comonad Reader](http://comonad.com/reader/)
 
-A blog with a few rotating authors, notably [Edward
-Kmett](https://github.com/ekmett) (apologies to Dan Doel and Gershom
-Bazerman, you are probably also notable but Edward Kmett has his name
-on every damn library in the ecosystem, so...) 
+A blog with a few different authors, (with apologies to Dan Doel and
+Gershom Bazerman and any other co-authors I may be forgetting) notably
+[Edward Kmett](https://github.com/ekmett).
 
 I occasionally look at this blog, realize how out of my depth I am,
 bookmark it for later and close the tab. Something to aspire to.
