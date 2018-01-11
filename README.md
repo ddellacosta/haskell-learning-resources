@@ -1,11 +1,15 @@
 
-# Haskell Learning Resources
+# Haskell Learning Resources and References
 
 This list, organized roughly by topic or theme, contains resources **I**
 have found to be most useful during my journey as a student of
 Haskell. It's not meant to be comprehensive, and I may have
 deliberately left some resources off of this list--there is more out
-there than I'm going to include here.
+there than I'm going to include here. But I consider these learning
+resources and references to be either the best out there, or otherwise
+foundational and important. (For example, I think the Haskell wiki
+sucks in a lot of ways, but there is enough important stuff on there
+that I would be remiss if I didn't include it in this list.)
 
 
 ## Online Tutorials, Books, and Online Courses
@@ -67,13 +71,13 @@ works, or monoids...etc.
 
 ### [LYAH](http://learnyouahaskell.com/) and [Real World Haskell](http://book.realworldhaskell.org/)
   
- Two resources, both with flaws, but still useful for beginners. If
- you try some of these other sites and don't like them, take a look at
- both of these and see if the style works for you. Note that Real
- World Haskell is kind of old at this point, so the specific
- approaches they take for things like parsing and whatnot may not be
- up-to-date with current best practices/libraries, but the foundation
- is still very solid.
+Two resources, both with flaws, but still useful for beginners. If
+you try some of these other sites and don't like them, take a look at
+both of these and see if the style works for you. Note that Real
+World Haskell is kind of old at this point, so the specific
+approaches they take for things like parsing and whatnot may not be
+up-to-date with current best practices/libraries, but the foundation
+is still very solid.
 
 ### [School of Haskell](https://www.schoolofhaskell.com/)
 
@@ -153,6 +157,13 @@ example.
 
 **FILL ME IN!**
 
+### Monads
+
+### Monad Transformers
+
+### Type-level programming and dependent types in Haskell
+
+
 
 ## Academic and Advanced Resources
 
@@ -160,6 +171,10 @@ I've barely dipped my toes in the water with most of these but it
 becomes obvious quickly if you spend any time with any one of these
 collections that there is enough knowledge here to last one a
 lifetime. Enjoy, don't drown...
+
+### [Simon Peyton Jones's page at Microsoft Research](https://www.microsoft.com/en-us/research/people/simonpj/)
+
+I heard this guy did some Haskell stuff _shrugs_
 
 ### [Philip Wadler's home page](http://homepages.inf.ed.ac.uk/wadler/)
 
@@ -210,9 +225,10 @@ enduring than a wiki-page."
 
 ### [The Comonad Reader](http://comonad.com/reader/)
 
-A blog with a few rotating authors, notably Edward Kmett (apologies to
-Dan Doel and Gershom Bazerman, you are probably also notable but
-Edward Kmett has his name on every damn library in the ecosystem, so...)
+A blog with a few rotating authors, notably [Edward
+Kmett](https://github.com/ekmett) (apologies to Dan Doel and Gershom
+Bazerman, you are probably also notable but Edward Kmett has his name
+on every damn library in the ecosystem, so...) 
 
 I occasionally look at this blog, realize how out of my depth I am,
 bookmark it for later and close the tab. Something to aspire to.
